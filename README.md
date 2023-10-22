@@ -5,6 +5,8 @@
 
 2. 整理后的数据（部分）
 
+![image](https://github.com/xuying2020/taiyuantrace/assets/114268932/9bcae4e8-104c-4e30-ae14-98687046a84c)
+
 3. 使用python进行数据处理
 
 
