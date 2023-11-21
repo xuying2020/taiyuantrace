@@ -11,12 +11,16 @@
 
 
 病例关系图---每条传播链设置为一类
+
 ![image](https://github.com/xuying2020/taiyuantrace/assets/114268932/708e9cbe-6ae8-4c05-8334-b64308ace02b)
 
 疫情轨迹动态图
-![image](https://github.com/xuying2020/taiyuantrace/assets/114268932/5cda84e2-2647-4656-a6b2-4533c4cf8466)
+
+![image](https://github.com/xuying2020/taiyuantrace/assets/114268932/38e8a510-cd94-4198-9956-377b7392204a)
+
 
 数字化大屏
 
-![image](https://github.com/xuying2020/taiyuantrace/assets/114268932/d8b88c61-6458-491e-aab3-ce53514b2834)
+![image](https://github.com/xuying2020/taiyuantrace/assets/114268932/dd93de34-36a5-4938-bc54-4ac93b9e0523)
+
 
